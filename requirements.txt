@@ -1,0 +1,6 @@
+flask
+google-cloud-translate
+pysrt
+spacy
+termcolor
+tqdm

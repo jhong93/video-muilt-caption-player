@@ -1,0 +1,7 @@
+nlp/dictionaries/
+nlp/word_vectors/
+*.json
+*.pyc
+*.google-cache
+*.srt
+*.m4v
